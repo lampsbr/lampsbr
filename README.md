@@ -1,5 +1,8 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lampsbr&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=okta-developer-docs,sensorapi,listacli,cakephp,numeroum,teclista,bobsien-monitor,neogelk)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lampsbr)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **lampsbr/lampsbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
