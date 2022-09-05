@@ -1,7 +1,11 @@
 ![Welcome](banner.png?raw=true "Welcome Banner")
-* Full-stack developer <img align="right" alt="Top langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lampsbr&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=okta-developer-docs,sensorapi,listacli,cakephp,numeroum,teclista,bobsien-monitor,neogelk" >
+<img align="right" alt="Top langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lampsbr&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=okta-developer-docs,sensorapi,listacli,cakephp,numeroum,teclista,bobsien-monitor,neogelk" >
+* Full-stack developer
 * Working for the IT industry since 2008 
 * Prefer teamwork instead of coding alone
+* Infrastructure, Linux and Virtualization background
+* More Generalist than Specialist
+* Human languages: <img src="flags/us.svg" width="20"> <img src="flags/br.svg" width="20"> <img src="flags/fr.svg" width="20"> <img src="flags/es.svg" width="20">
 
 
 ### Connect with me:
@@ -25,6 +29,11 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 (among others)
+
+### Past projects:
+* Portal do Jurisdicionado (description soon)
+* Número UM (description soon)
+* The Brown Project (description soon)
 
 ### Powered by:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
