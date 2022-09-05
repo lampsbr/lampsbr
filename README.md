@@ -3,6 +3,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lampsbr&theme=tokyonight&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lampsbr&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=okta-developer-docs,sensorapi,listacli,cakephp,numeroum,teclista,bobsien-monitor,neogelk" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=lampsbr&theme=tokyonight&title=Commits" />
+</a>
+
 <!--
 **lampsbr/lampsbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
