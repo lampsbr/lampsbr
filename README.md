@@ -6,6 +6,7 @@
 * Infrastructure, Linux and Virtualization background
 * More Generalist than Specialist
 * Human languages: <img src="flags/us.svg" width="20"> <img src="flags/br.svg" width="20"> <img src="flags/fr.svg" width="20"> <img src="flags/es.svg" width="20">
+* Don't mind using new languages, frameworks, technologies
 
 
 ### Connect with me:
@@ -19,7 +20,11 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Past projects:
+* Portal do Jurisdicionado (description soon)
+* Número UM (description soon)
+* The Brown Project (description soon)
 
 ### Cloud hosts used:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -29,11 +34,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 (among others)
-
-### Past projects:
-* Portal do Jurisdicionado (description soon)
-* Número UM (description soon)
-* The Brown Project (description soon)
 
 ### Powered by:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
