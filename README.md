@@ -1,11 +1,11 @@
-![Welcome](banner.png?raw=true "Welcome Banner")
+![Welcome](assets/banner.png?raw=true "Welcome Banner")
 <img align="right" alt="Top langs" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lampsbr&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=okta-developer-docs,sensorapi,listacli,cakephp,numeroum,teclista,bobsien-monitor,neogelk" >
 * Full-stack developer
 * Working for the IT industry since 2008 
 * Prefer teamwork instead of coding alone
 * Infrastructure, Linux and Virtualization background
 * More Generalist than Specialist
-* Human languages: <img src="flags/us.svg" width="20"> <img src="flags/br.svg" width="20"> <img src="flags/fr.svg" width="20"> <img src="flags/es.svg" width="20">
+* Human languages: <img src="assets/flags/us.svg" width="20"> <img src="assets/flags/br.svg" width="20"> <img src="assets/flags/fr.svg" width="20"> <img src="assets/flags/es.svg" width="20">
 * Don't mind using new languages, frameworks, technologies
 
 
