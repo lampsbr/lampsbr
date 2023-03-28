@@ -7,6 +7,7 @@
 * More Generalist than Specialist
 * Human languages: <img src="assets/flags/us.svg" width="20"> <img src="assets/flags/br.svg" width="20"> <img src="assets/flags/fr.svg" width="20"> <img src="assets/flags/es.svg" width="20">
 * Don't mind using new languages, frameworks, technologies
+* Proudly consulting for <a href="https://www.tornet.co/"><img src="https://www.tornet.co/wp-content/uploads/2022/11/tornet.png" alt="TorNET" width="90"/></a>
 
 
 ### Connect with me:
